@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a list of commits 1`] = `
+<ul
+  className="sc-gzVnrw fTEsWS"
+>
+  <input
+    className="sc-bZQynM gqaLFO"
+    onChange={[Function]}
+    placeholder="Search..."
+    type="text"
+    value=""
+  />
+  <li
+    className="sc-htoDjs elnIVe"
+  >
+    <div
+      className="sc-iwsKbI RAFUZ"
+    >
+      abc
+    </div>
+    <div
+      className="sc-dnqmqq cdFNjO"
+    >
+      Some message
+    </div>
+    <div
+      className="sc-gZMcBi hhbgDr"
+    >
+      <img
+        alt="Avatar"
+        className="sc-EHOje eKiJYG"
+        size={24}
+        src="..."
+      />
+      <div
+        className="sc-gqjmRU fMOkYO"
+      >
+        Some author
+      </div>
+    </div>
+  </li>
+</ul>
+`;

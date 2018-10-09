@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a list of repositories 1`] = `
+<div
+  className="sc-kGXeez hDqTAq"
+>
+  <div
+    className="sc-kpOJdX ljRZrF"
+  >
+    <div
+      className="sc-dxgOiQ ewscA"
+    >
+      <img
+        alt="Avatar"
+        className="sc-EHOje cFNCFP"
+        src="..."
+      />
+      <h3
+        className="sc-bdVaJa hHOWiG"
+      >
+        somelogin
+      </h3>
+    </div>
+    <ul
+      className="sc-gzVnrw bLQPWQ"
+    >
+      <a
+        className="sc-gZMcBi cqlAIU"
+        href="/somelogin/somerepo"
+        onClick={[Function]}
+      >
+        <li
+          className="sc-htoDjs eJHaKy"
+        >
+          <div
+            className="sc-dnqmqq kxWGqn"
+          >
+            somerepo
+          </div>
+          <p
+            className="sc-iwsKbI dUJVnR"
+          />
+        </li>
+      </a>
+    </ul>
+  </div>
+</div>
+`;
